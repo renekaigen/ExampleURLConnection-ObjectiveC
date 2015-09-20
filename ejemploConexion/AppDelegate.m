@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "ViewController.h" //nose porque pero lo importan
 
 @interface AppDelegate ()
 
